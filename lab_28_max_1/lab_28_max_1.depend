@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645273756 source:d:\info\lab_28_max_1\main.cpp
+	<iostream>
+	<fstream>
+
